@@ -4,4 +4,4 @@ this project is a rocket that is supposed to record measurement data with severa
 
 <h4>Team Red:</h4> 
 &emsp; Michael, Gerlach <br>
-	 Fornalak, Phil   <br>
+	   Fornalak, Phil   <br>
